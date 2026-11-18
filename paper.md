@@ -2,9 +2,9 @@
 Defending Against Multi-target Backdoor Attacks in Cross-Silo Federated Learning
 
 # Author
-Fatima Abacha
-Mustafa Mustafa 
+Fatima Abacha UoM
 
+Mustafa Mustafa KU Leuven
 # Introduction
 Federated Learning is vulnerable to backdoor attacks. 
 
