@@ -19,3 +19,5 @@ More recent attacks like Neurotoxin hide the attack in more stealthy locations (
 We add simulations showing how CBA and DBA compromise FL.
 
 #Ablations
+
+#Figures 
