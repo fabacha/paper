@@ -1,8 +1,9 @@
 # Title
-Defending Against Multi-target Backdoor Attacks in Federated Learning
+Towards Defending Against Multi-target Backdoor Attacks in Federated Learning
 
 # Author
-Fatima Abacha 
+Fatima Abacha
+Mustafa Mustafa 
 
 # Introduction
 Federated Learning is vulnerable to backdoor attacks. 
