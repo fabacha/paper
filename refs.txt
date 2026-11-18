@@ -1,1 +1,2 @@
 [1] How to Backdoor Federated Learning, Bagdasaryan et al. 2019. 
+[2] Distributed Backdoor Attack, Xie et al. 2020
