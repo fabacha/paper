@@ -1,5 +1,5 @@
 # Title
-Defending Against Multi-target Backdoor Attacks in Federated Learning
+Defending Against Multi-target Backdoor Attacks in Cross-Silo Federated Learning
 
 # Author
 Fatima Abacha 
