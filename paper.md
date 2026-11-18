@@ -2,7 +2,8 @@
 Defending Against Multi-target Backdoor Attacks in Cross-Silo Federated Learning
 
 # Author
-Fatima Abacha 
+Fatima Abacha
+Mustafa Mustafa 
 
 # Introduction
 Federated Learning is vulnerable to backdoor attacks. 
@@ -15,4 +16,4 @@ More recent attacks like Neurotoxin hide the attack in more stealthy locations (
 
 #Simulations
 
-We add simulations
+We add simulations showing how CBA and DBA compromise FL.
